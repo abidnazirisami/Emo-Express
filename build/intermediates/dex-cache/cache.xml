@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\kakas\.android\build-cache\3824a85aa22dc16c29558ba1f6458dc48d6cc223\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="E:\Study\5th Semester\Software Engineering\Project OREO\Emo\Cognitive-Emotion-Android-master\Sample\app\build\intermediates\pre-dexed\debug\classes_5cd81de614ea7636b0a434bda362babba7d9307d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kakas\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.5\686c608d1805b6d4d425ec4459e88164ffc85870\gson-2.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
+        <dex dex="E:\Study\5th Semester\Software Engineering\Project OREO\Emo\Cognitive-Emotion-Android-master\Sample\app\build\intermediates\pre-dexed\debug\gson-2.5_e2c74415406ce56156ca5a2bf8e46007eb3dc077.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kakas\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="E:\Study\5th Semester\Software Engineering\Project OREO\Emo\Cognitive-Emotion-Android-master\Sample\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_44c5220d900300b84079d24951bf70d7f72f810c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kakas\.android\build-cache\f0384c0a6dd7dd902183d8c764f4a852f97b2ad6\output\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="E:\Study\5th Semester\Software Engineering\Project OREO\Emo\Cognitive-Emotion-Android-master\Sample\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_66ee2b279f4c913cbba098ea5e8b1cf0127b4567.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kakas\.android\build-cache\f0384c0a6dd7dd902183d8c764f4a852f97b2ad6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="E:\Study\5th Semester\Software Engineering\Project OREO\Emo\Cognitive-Emotion-Android-master\Sample\app\build\intermediates\pre-dexed\debug\classes_ac5efb0bf2c4322bfca5ac08954eec39689fb7e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\commons-io\commons-io\2.4\commons-io-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="E:\Study\5th Semester\Software Engineering\Project OREO\Emo\Cognitive-Emotion-Android-master\Sample\app\build\intermediates\pre-dexed\debug\commons-io-2.4_b2955a73e8fdec69863902c786dced8321b28c5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kakas\.android\build-cache\24c44ab63315fd55fc19842dc1f6b38182d2a267\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9885b9cbfc39129a13674d39d0cae321fc0dc97">
+        <dex dex="E:\Study\5th Semester\Software Engineering\Project OREO\Emo\Cognitive-Emotion-Android-master\Sample\app\build\intermediates\pre-dexed\debug\classes_5a3dfc3079793f5b1f39f392a8fc9b47e590f6e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kakas\.android\build-cache\1c1e3698fcd1041a2217bdb6f905faa8ce9859d0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e14806eb68bf5098f8a6b6f09e414143b7532280">
+        <dex dex="E:\Study\5th Semester\Software Engineering\Project OREO\Emo\Cognitive-Emotion-Android-master\Sample\app\build\intermediates\pre-dexed\debug\classes_4961133aebe1714f4b3bf295f5a609edac6d056d.jar" />
+    </item>
+
+</items>

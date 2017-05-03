@@ -1,0 +1,48 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg2"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.microsoft.projectoxford.emotionsample.RecognizeActivity">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:weightSum="1">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="start"
+            android:textSize="20sp"
+            android:text="Click on select image to select an image for detection. Click on the camera icon to capture an image from camera, or on the gallery icon to browse for a photo from the gallery. Then wait for 4-5 seconds for the result!
+\nWARNING: You must be connected to the internet."/>
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:weightSum="1">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="365dp"
+            android:layout_gravity="center_vertical"
+            android:textSize="15sp"
+            android:text="Team Oreo\n
+Members:
+\n- Fariha Hossain
+\n- Md. Sakib Anwar
+\n- M M Abid Naziri
+\n- Md Shahadat Hossain"/>
+    </LinearLayout>
+
+</RelativeLayout>
